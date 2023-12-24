@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "30645610164",
+    "project_id": "smart-flutter-project",
+    "storage_bucket": "smart-flutter-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30645610164:android:225af091536a7f131519e1",
+        "android_client_info": {
+          "package_name": "com.example.smart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTBfTVEU8CpxkyeIpMnVtU-5-S8JqMt1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
